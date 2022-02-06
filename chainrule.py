@@ -3,10 +3,6 @@ from manim import *
 
 class ChainRule(Scene):
   def construct(self):
-    #things to add:
-    #chain rule example e.g (3sinx + 1)^5
-    #increase wait times in explanations
-    #change \dd x to just dx
 
     pt1a = MathTex("\\text{According to the chain rule, the derivative of } ", "g(", "h(", "x", ")", ")", "\\text{ is...}")
     pt1b = MathTex("\\text{According to the chain rule, the derivative of } ", "g(", "h(", "x", ")", ")", "\\text{ is...}").scale(0.75).to_edge(UL)
