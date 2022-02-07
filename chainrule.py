@@ -1,5 +1,6 @@
 from manim import *
 
+# Link to video: https://www.youtube.com/watch?v=htjV5RZkhjA&t=3s
 
 class ChainRule(Scene):
   def construct(self):
