@@ -1,5 +1,6 @@
 from manim import *
 
+#Link to video: https://www.youtube.com/watch?v=6JtT9OJTlCc
 
 class ProofACMethod(Scene):
   def construct(self):
