@@ -1,2 +1,2 @@
 # manim-videos
-Code for my manim-generated scenes
+Code for my manim-generated scenes.
